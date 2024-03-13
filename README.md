@@ -8,7 +8,7 @@ Repo for study CS114 in UIT
 <!-- UIT Banner -->
 <div align="center">
   <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" target="_blank">
-    <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit_1.png">
+    <img src="https://raw.githubusercontent.com/howtodie123/CS114_NoHope/main/LinhTinh/1353819.jpg">
   </a>
 </div>
 
