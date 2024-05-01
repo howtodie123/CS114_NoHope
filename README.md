@@ -8,7 +8,7 @@ Repo for study CS114 in UIT
 <!-- UIT Banner -->
 <div align="center">
   <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" target="_blank">
-
+     <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Python/Python.png" alt="Python | University of Information Technology">
   </a>
 </div>
 
